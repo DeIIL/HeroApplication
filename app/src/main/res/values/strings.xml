@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">HeroApplication</string>
+    <string name="zatanna_button"></string>
+    <string name="superman_button"></string>
+    <string name="batman_button"></string>
+    <string name="beetle_button"></string>
+    <string name="batman.jpeg"></string>
+    <string name="zatanna.jpeg"></string>
+    <string name="beetle.jpeg"></string>
+    <string name="superman.jpeg"></string>
+    <string name="batman_name">Nome: Bruce Wayne</string>
+    <string name="batman_title">Batman</string>
+    <string name="batman_codnome">CodiNome: Homem-Morcego</string>
+    <string name="batman_especie">Espécie: Humano</string>
+    <string name="batman_hability">Habilidades: Acrobacias e Análise tática</string>
+    <string name="batman_vunerabi">Vunerabilidade: Ataquem mentais</string>
+
+    <string name="superman_name">Nome: Clark Joseph Kent</string>
+    <string name="superman_title">Superman</string>
+    <string name="superman_codnome">CodiNome: Super-Homem</string>
+    <string name="superman_especie">Espécie: Kryptoniano</string>
+    <string name="superman_hability">Habilidades: Fisiologia kryptoniana</string>
+    <string name="superman_vunerabi">Vunerabilidade: Kryptonita</string>
+
+    <string name="beetle_name">Nome: Jaime Reyes</string>
+    <string name="beetle_title">Besouro Azul</string>
+    <string name="beetle_codnome">CodiNome: Besouro Azul</string>
+    <string name="beetle_especie">Espécie: Humano</string>
+    <string name="beetle_hability">Habilidades: Telepatia, Superforça, Superagilidade, Voar, Canhões de energia, Superinteligência, Fator de regeneração</string>
+    <string name="beetle_vunerabi">Vunerabilidade: A tecnologia de alcance é capaz de perfurar a armadura Blue Beetle.O Escaravelho tem uma trégua da natureza, e não a machucará, ou qualquer coisa dela, por sua própria vontade.</string>
+
+    <string name="zatanna_name">Nome: Zatanna Zatara</string>
+    <string name="zatanna_title">Zatanna</string>
+    <string name="zatannacodnome">CodiNome: Primak</string>
+    <string name="zatanna_especie">Espécie: Homo magi</string>
+    <string name="zatanna_hability">Habilidades: Feitiçaria Genética</string>
+    <string name="zatanna_vunerabi">Vunerabilidade: Vulnerabilidade à magia</string>
+
+    <string name="hero_title">ESCOLHA O HERÓI</string>
+</resources>
